@@ -1,4 +1,4 @@
--![github-header-image](https://github.com/MukundhanTringapps/MukundhanTringapps/assets/144873627/b4da7927-61a5-4e00-930e-9cef47c4bc12)
+![github-header-image](https://github.com/MukundhanTringapps/MukundhanTringapps/assets/144873627/b4da7927-61a5-4e00-930e-9cef47c4bc12)
 - 👋 Hi, I’m Mukundhan Krishnamoorthy, a Quality Assurance Engineer at Tringapps, Inc.
 - 👀 I’m interested in Automation project design utilizing Selenium & Appium frameworks
 - 🔭 I’m currently working on Automation testing for web & mobile web applications
