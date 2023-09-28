@@ -1,10 +1,10 @@
-Hi ![](<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/>)My name is Mukundhan krishnamoorthy
+Hi👋, My name is Mukundhan krishnamoorthy
 ================================================================================================================================================
 
-Quality Assurance Engineer @Tringapps, Inc.
+I'm a Quality Assurance Engineer @Tringapps, Inc.
 -------------------------------------------
 
-Accomplished Quality Assurance Engineer with three years of expertise in automation and manual testing for diverse web and mobile applications. Proficient in creating automated test scripts using Core Java, Selenium, and Appium, enhancing testing efficiency. Adept at mentoring teams, fostering collaboration, and ensuring high-quality deliverables. Skilled in meticulous manual testing, strategic test planning, and precise bug tracking across multiple platforms, including Android, iOS, Roku, and TVOS. Proficient in Excel, Jira, and technical documentation for streamlined processes. Committed to elevating software quality and optimizing testing practices.
+Accomplished QA Engineer with three years of expertise in manual & automation testing for diverse web and mobile applications. Proficient in creating automated test scripts using Core Java, Selenium, and Appium, enhancing testing efficiency. Adept at mentoring teams, fostering collaboration, and ensuring high-quality deliverables. Skilled in meticulous manual testing, strategic test planning, and precise bug tracking across multiple platforms, including Android, iOS, Roku, and TVOS. Proficient in Excel, Jira, and technical documentation for streamlined processes. Committed to elevating software quality and optimizing testing practices.
 
 * 🌍  I'm based in Chennai, Tamil Nadu, India.
 * ✉️  You can contact me at [mukundhan7@gmail.com](mailto:mukundhan7@gmail.com)
