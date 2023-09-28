@@ -1,7 +1,7 @@
 Hi👋, My name is Mukundhan krishnamoorthy
 ================================================================================================================================================
 
-I'm a Quality Assurance Engineer @Tringapps, Inc.
+Quality Assurance Engineer @Tringapps, Inc.
 -------------------------------------------
 
 Accomplished QA Engineer with three years of expertise in manual & automation testing for diverse web and mobile applications. Proficient in creating automated test scripts using Core Java, Selenium, and Appium, enhancing testing efficiency. Adept at mentoring teams, fostering collaboration, and ensuring high-quality deliverables. Skilled in meticulous manual testing, strategic test planning, and precise bug tracking across multiple platforms, including Android, iOS, Roku, and TVOS. Proficient in Excel, Jira, and technical documentation for streamlined processes. Committed to elevating software quality and optimizing testing practices.
@@ -36,14 +36,7 @@ Accomplished QA Engineer with three years of expertise in manual & automation te
     </picture> 
   </a> 
   
-  <a href="https://www.instagram.com/mukundhan_k" target="_blank" rel="noreferrer"> 
-    <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> 
-    </picture> 
-  </a> 
-  
-  <a href="https://www.linkedin.com/in/mukundhank/" target="_blank" rel="noreferrer"> 
+<a href="https://www.linkedin.com/in/mukundhank/" target="_blank" rel="noreferrer"> 
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
