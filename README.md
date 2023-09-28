@@ -43,7 +43,7 @@ Accomplished Quality Assurance Engineer with three years of expertise in automat
     </picture> 
   </a> 
   
-  <a href="https://www.linkedin.com/in/mukundhank" target="_blank" rel="noreferrer"> 
+  <a href="https://www.linkedin.com/in/mukundhank/" target="_blank" rel="noreferrer"> 
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
