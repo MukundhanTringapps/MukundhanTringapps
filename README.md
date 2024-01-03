@@ -1,10 +1,10 @@
-Hi👋, My name is Mukundhan krishnamoorthy
+Hi👋, I'm Mukundhan krishnamoorthy
 ================================================================================================================================================
 
 Quality Assurance Engineer @Tringapps, Inc.
 -------------------------------------------
 
-Accomplished QA Engineer with three years of expertise in manual & automation testing for diverse web and mobile applications. Proficient in creating automated test scripts using Core Java, Selenium, and Appium, enhancing testing efficiency. Adept at mentoring teams, fostering collaboration, and ensuring high-quality deliverables. Skilled in meticulous manual testing, strategic test planning, and precise bug tracking across multiple platforms, including Android, iOS, Roku, and TVOS. Proficient in Excel, Jira, and technical documentation for streamlined processes. Committed to elevating software quality and optimizing testing practices.
+Accomplished QA Engineer with nearly four years of expertise in manual & automation testing for diverse web and mobile applications. Proficient in creating automated test scripts using Core Java, Selenium, and Appium, enhancing testing efficiency. Adept at mentoring teams, fostering collaboration, and ensuring high-quality deliverables. Skilled in meticulous manual testing, strategic test planning, and precise bug tracking across multiple platforms, including Android, iOS, Roku, and TVOS. Proficient in Excel, Jira, and technical documentation for streamlined processes. Committed to elevating software quality and optimizing testing practices.
 
 * 🌍  I'm based in Chennai, Tamil Nadu, India.
 * ✉️  You can contact me at [mukundhan7@gmail.com](mailto:mukundhan7@gmail.com)
